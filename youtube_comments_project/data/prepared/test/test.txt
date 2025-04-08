@@ -1,5 +1,0 @@
-<BOS>I appreciate how you didn't oversimplify the topic while still making it accessible<EOS>
-<BOS>This channel deserves more recognition The quality of content is outstanding<EOS>
-<BOS>I'm impressed by how much information you packed into a relatively short video<EOS>
-<BOS>The practical examples really help to understand how to apply these concepts<EOS>
-<BOS>This video answered questions I didn't even know I had about the subject<EOS> 
